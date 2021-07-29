@@ -31,6 +31,5 @@ htmlcov/
 
 .github/**
 
-Dockerfile
 iam-role-policy.json
 trust.json
