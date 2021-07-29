@@ -4,6 +4,7 @@
 *.pyc
 *.pyo
 env/
+venv/
 env*
 dist/
 build/
@@ -29,3 +30,7 @@ htmlcov/
 .direnv
 
 .github/**
+
+Dockerfile
+iam-role-policy.json
+trust.json
